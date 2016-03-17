@@ -1,0 +1,9 @@
+{
+  "name": "staticnode",
+  "version": "0.0.1",
+  "description": "Serves static files from public",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
